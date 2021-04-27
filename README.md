@@ -1,5 +1,5 @@
 # python-local-search
-Bash script for searching locally installed Python documentation on Debian-based systems
+Bash script for searching locally installed Python documentation on Debian-based systems such as Ubuntu
 
 It is known that Python have a variety of possible documentation formats. For some Python packages it is possible to use [Devhelp](https://packages.ubuntu.com/search?suite=all&exact=1&searchon=names&keywords=devhelp) or [DocHelp](https://packages.ubuntu.com/search?suite=all&section=all&arch=any&keywords=dochelp&searchon=names), for some - not.
 
