@@ -1,4 +1,6 @@
 #!/bin/bash
+#Bash script for searching locally installed Python documentation on Debian-based systems such as Ubuntu
+
 USAGE="Usage: $0 search_term"
 
 if [ $# -lt 1 ]; then
